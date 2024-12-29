@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python-related ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
